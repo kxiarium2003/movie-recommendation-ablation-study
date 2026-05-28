@@ -1,0 +1,337 @@
+decision,title_1,year_1,tmdbId_1,title_2,year_2,tmdbId_2,genre_sim,tag_sim
+KEEP (Different Movie),12 Angry Men (1957),1957.0,389.0,12 Angry Men (1997),1997.0,12219.0,0.5,0.0
+KEEP (Different Movie),12 Chairs (1976),1976.0,27934.0,12 Chairs (1971),1971.0,31648.0,1.0,0.0
+KEEP (Different Movie),"20,000 Leagues Under the Sea (1954)",1954.0,173.0,"20,000 Leagues Under the Sea (1916)",1916.0,30266.0,0.5,0.0
+KEEP (Different Movie),3:10 to Yuma (1957),1957.0,14168.0,3:10 to Yuma (2007),2007.0,5176.0,0.5,0.0
+KEEP (Different Movie),About Last Night... (1986),1986.0,18169.0,About Last Night (2014),2014.0,222899.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Alamo, The (1960)",1960.0,11209.0,The Alamo (2004),2004.0,10733.0,0.75,0.0
+KEEP (Different Movie),Alfie (1966),1966.0,15598.0,Alfie (2004),2004.0,8849.0,1.0,0.0
+KEEP (Different Movie),Alice (1990),1990.0,8217.0,Alice (2009),2009.0,61872.0,0.16666666666666666,0.0
+KEEP (Different Movie),Alice in Wonderland (1951),1951.0,12092.0,Alice in Wonderland (2010),2010.0,12155.0,0.3333333333333333,0.0
+KEEP (Different Movie),Alice in Wonderland (1951),1951.0,12092.0,Alice in Wonderland (1933),1933.0,25694.0,0.6,0.0
+KEEP (Different Movie),Alice in Wonderland (2010),2010.0,12155.0,Alice in Wonderland (1933),1933.0,25694.0,0.5,0.0
+KEEP (Different Movie),All the King's Men (1949),1949.0,25430.0,All the King's Men (2006),2006.0,1717.0,1.0,0.0
+KEEP (Different Movie),"Amityville Horror, The (1979)",1979.0,11449.0,"Amityville Horror, The (2005)",2005.0,10065.0,0.5,0.0
+KEEP (Different Movie),Anastasia (1997),1997.0,9444.0,Anastasia (1956),1956.0,38171.0,0.2,0.0
+KEEP (Different Movie),Anna Karenina (1935),1935.0,70881.0,Anna Karenina (2012),2012.0,96724.0,0.5,0.0
+KEEP (Different Movie),Anna Karenina (1997),1997.0,50512.0,Anna Karenina (1935),1935.0,70881.0,1.0,0.0
+KEEP (Different Movie),Anna Karenina (1997),1997.0,50512.0,Anna Karenina (2012),2012.0,96724.0,0.5,0.0
+KEEP (Different Movie),Around the World in 80 Days (1956),1956.0,2897.0,Around the World in 80 Days (2004),2004.0,10204.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Art of the Steal, The (2009)",2009.0,41999.0,"Art of the Steal, The (2013)",2013.0,209247.0,0.0,0.0
+KEEP (Different Movie),Arthur (1981),1981.0,13665.0,Arthur (2011),2011.0,49012.0,0.5,0.0
+KEEP (Different Movie),Assault on Precinct 13 (1976),1976.0,17814.0,Assault on Precinct 13 (2005),2005.0,8978.0,0.5,0.0
+KEEP (Different Movie),Avalon (1990),1990.0,2302.0,Avalon (2001),2001.0,10881.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Avengers, The (1998)",1998.0,9320.0,"Avengers, The (2012)",2012.0,24428.0,0.5,0.0
+KEEP (Different Movie),Babes in Toyland (1961),1961.0,32611.0,Babes in Toyland (1934),1934.0,25898.0,0.75,0.0
+KEEP (Different Movie),Bad Company (1995),1995.0,40480.0,Bad Company (2002),2002.0,3132.0,0.5,0.0
+KEEP (Different Movie),Batman (1989),1989.0,268.0,Batman (1966),1966.0,2661.0,0.2,0.0
+KEEP (Different Movie),Beautiful Creatures (2000),2000.0,15940.0,Beautiful Creatures (2013),2013.0,109491.0,0.16666666666666666,0.0
+KEEP (Different Movie),Beauty and the Beast (1991),1991.0,10020.0,Beauty and the Beast (2017),2017.0,321612.0,0.3333333333333333,0.0
+KEEP (Different Movie),Bedazzled (2000),2000.0,1636.0,Bedazzled (1967),1967.0,18209.0,0.5,0.0
+KEEP (Different Movie),Ben-Hur (1959),1959.0,665.0,Ben-hur (2016),2016.0,271969.0,0.0,0.0
+KEEP (Different Movie),Beowulf (1999),1999.0,5470.0,Beowulf (2007),2007.0,2310.0,0.14285714285714285,0.0
+KEEP (Different Movie),Bernie (1996),1996.0,19963.0,Bernie (2011),2011.0,92591.0,0.6666666666666666,0.0
+KEEP (Different Movie),Black Christmas (1974),1974.0,16938.0,Black Christmas (2006),2006.0,9656.0,0.5,0.0
+KEEP (Different Movie),Black Sheep (1996),1996.0,13997.0,Black Sheep (2006),2006.0,3603.0,0.5,0.0
+KEEP (Different Movie),Blind Date (1987),1987.0,918.0,Blind Date (1984),1984.0,80965.0,0.0,0.0
+KEEP (Different Movie),Bliss (1997),1997.0,63945.0,Bliss (2012),2012.0,131244.0,0.5,0.0
+KEEP (Different Movie),"Blob, The (1958)",1958.0,8851.0,"Blob, The (1988)",1988.0,9599.0,1.0,0.0
+KEEP (Different Movie),Blood: The Last Vampire (2000),2000.0,919.0,Blood: The Last Vampire (2009),2009.0,1450.0,0.5,0.0
+KEEP (Different Movie),"Blue Lagoon, The (1980)",1980.0,5689.0,The Blue Lagoon (1949),1949.0,228074.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Bourne Identity, The (2002)",2002.0,2501.0,"Bourne Identity, The (1988)",1988.0,8677.0,0.6,0.0
+KEEP (Different Movie),Boy Meets Girl (1984),1984.0,63418.0,Boy Meets Girl (2015),2015.0,263105.0,0.3333333333333333,0.0
+KEEP (Different Movie),Brainstorm (1983),1983.0,15050.0,Brainstorm (2001),2001.0,53961.0,0.0,0.0
+KEEP (Different Movie),Broken Arrow (1996),1996.0,9208.0,Broken Arrow (1950),1950.0,37292.0,0.0,0.0
+KEEP (Different Movie),"Browning Version, The (1994)",1994.0,49805.0,"Browning Version, The (1951)",1951.0,39946.0,1.0,0.0
+KEEP (Different Movie),Bully (2001),2001.0,9517.0,Bully (2011),2011.0,84404.0,0.0,0.0
+KEEP (Different Movie),Cape Fear (1991),1991.0,1598.0,Cape Fear (1962),1962.0,11349.0,0.3333333333333333,0.0
+KEEP (Different Movie),Captain America (1990),1990.0,13995.0,Captain America (1979),1979.0,197467.0,0.16666666666666666,0.0
+KEEP (Different Movie),Carrie (1976),1976.0,7340.0,Carrie (2002),2002.0,7342.0,0.75,0.0
+KEEP (Different Movie),Carrie (1976),1976.0,7340.0,Carrie (2013),2013.0,133805.0,0.5,0.0
+KEEP (Different Movie),Carrie (2002),2002.0,7342.0,Carrie (2013),2013.0,133805.0,0.6666666666666666,0.0
+KEEP (Different Movie),Cashback (2006),2006.0,12225.0,Cashback (2004),2004.0,244797.0,0.6666666666666666,0.0
+KEEP (Different Movie),Casino Royale (1967),1967.0,12208.0,Casino Royale (2006),2006.0,36557.0,0.5,0.0
+KEEP (Different Movie),Cat People (1982),1982.0,6217.0,Cat People (1942),1942.0,25508.0,0.4,0.0
+KEEP (Different Movie),Charlotte's Web (1973),1973.0,15171.0,Charlotte's Web (2006),2006.0,9986.0,0.2,0.0
+KEEP (Different Movie),Cheaper by the Dozen (2003),2003.0,11007.0,Cheaper by the Dozen (1950),1950.0,33839.0,0.3333333333333333,0.0
+KEEP (Different Movie),Chocolat (2000),2000.0,392.0,Chocolat (1988),1988.0,41951.0,0.5,0.0
+KEEP (Different Movie),"Christmas Carol, A (1938)",1938.0,25842.0,"Christmas Carol, A (2009)",2009.0,17979.0,0.6,0.0
+KEEP (Different Movie),"Christmas Carol, A (1938)",1938.0,25842.0,"Christmas Carol, A (1999)",1999.0,16716.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Christmas Carol, A (1938)",1938.0,25842.0,"Christmas Carol, A (1977)",1977.0,45697.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Christmas Carol, A (1999)",1999.0,16716.0,"Christmas Carol, A (1977)",1977.0,45697.0,1.0,0.0
+KEEP (Different Movie),"Christmas Carol, A (2009)",2009.0,17979.0,"Christmas Carol, A (1999)",1999.0,16716.0,0.4,0.0
+KEEP (Different Movie),"Christmas Carol, A (2009)",2009.0,17979.0,"Christmas Carol, A (1977)",1977.0,45697.0,0.4,0.0
+KEEP (Different Movie),Cinderella (1950),1950.0,11224.0,Cinderella (1997),1997.0,42884.0,0.8,0.0
+KEEP (Different Movie),Cinderella (1950),1950.0,11224.0,Cinderella (2015),2015.0,150689.0,0.5,0.0
+KEEP (Different Movie),Cinderella (1997),1997.0,42884.0,Cinderella (2015),2015.0,150689.0,0.6,0.0
+KEEP (Different Movie),Clash of the Titans (1981),1981.0,10323.0,Clash of the Titans (2010),2010.0,18823.0,0.6,0.0
+KEEP (Different Movie),"Collector, The (1965)",1965.0,42740.0,"Collector, The (2009)",2009.0,21407.0,0.5,0.0
+KEEP (Different Movie),Conan the Barbarian (1982),1982.0,9387.0,Conan the Barbarian (2011),2011.0,37430.0,1.0,0.0
+KEEP (Different Movie),Crash (1996),1996.0,884.0,Crash (2004),2004.0,1640.0,0.3333333333333333,0.0
+KEEP (Different Movie),Creep (2004),2004.0,8555.0,Creep (2014),2014.0,250574.0,1.0,0.0
+KEEP (Different Movie),"Crew, The (2000)",2000.0,19150.0,The Crew (2016),2016.0,380111.0,0.0,0.0
+KEEP (Different Movie),Crossroads (2002),2002.0,17130.0,Crossroads (1986),1986.0,15392.0,0.0,0.0
+KEEP (Different Movie),D.O.A. (1988),1988.0,9748.0,D.O.A. (1950),1950.0,18995.0,0.5,0.0
+KEEP (Different Movie),Dad's Army (1971),1971.0,20051.0,Dad's Army (2016),2016.0,332721.0,1.0,0.0
+KEEP (Different Movie),Dawn of the Dead (2004),2004.0,924.0,Dawn of the Dead (1978),1978.0,923.0,0.75,0.0
+KEEP (Different Movie),"Day the Earth Stood Still, The (1951)",1951.0,828.0,"Day the Earth Stood Still, The (2008)",2008.0,10200.0,0.75,0.0
+KEEP (Different Movie),Death Wish (1974),1974.0,13939.0,Death Wish (2018),2018.0,395990.0,0.75,0.0
+KEEP (Different Movie),Death at a Funeral (2007),2007.0,2196.0,Death at a Funeral (2010),2010.0,34803.0,1.0,0.0
+KEEP (Different Movie),Deliver Us from Evil (2006),2006.0,13364.0,Deliver Us from Evil (2014),2014.0,184346.0,0.0,0.0
+KEEP (Different Movie),Derailed (2005),2005.0,8999.0,Derailed (2002),2002.0,17774.0,0.3333333333333333,0.0
+KEEP (Different Movie),Dolls (1987),1987.0,24341.0,Dolls (2002),2002.0,870.0,0.0,0.0
+KEEP (Different Movie),"Double, The (2011)",2011.0,73499.0,"Double, The (2013)",2013.0,146015.0,0.3333333333333333,0.0
+KEEP (Different Movie),Dr. Jekyll and Mr. Hyde (1941),1941.0,3022.0,Dr. Jekyll and Mr. Hyde (1931),1931.0,3019.0,1.0,0.0
+KEEP (Different Movie),Dracula (1931),1931.0,138.0,Dracula (1979),1979.0,33521.0,0.5,0.0
+KEEP (Different Movie),Dune (1984),1984.0,841.0,Dune (2000),2000.0,876.0,0.25,0.0
+KEEP (Different Movie),Elsa & Fred (2014),2014.0,268171.0,Elsa & Fred (2005),2005.0,22916.0,0.5,0.0
+KEEP (Different Movie),Emma (1996),1996.0,3573.0,Emma (1996),1996.0,12254.0,0.3333333333333333,0.0
+KEEP (Different Movie),Emma (1996),1996.0,3573.0,Emma (2009),2009.0,183894.0,1.0,0.0
+KEEP (Different Movie),Emma (1996),1996.0,12254.0,Emma (2009),2009.0,183894.0,0.3333333333333333,0.0
+KEEP (Different Movie),Employee of the Month (2004),2004.0,11413.0,Employee of the Month (2006),2006.0,9794.0,0.5,0.0
+KEEP (Different Movie),Everest (1998),1998.0,21736.0,Everest (2015),2015.0,253412.0,0.0,0.0
+KEEP (Different Movie),Fantastic Four (2005),2005.0,9738.0,Fantastic Four (2015),2015.0,166424.0,0.75,0.0
+KEEP (Different Movie),Father of the Bride (1950),1950.0,20758.0,Father of the Bride (1991),1991.0,11846.0,1.0,0.5797386715376658
+KEEP (Different Movie),Feast (2005),2005.0,10070.0,Feast (2014),2014.0,293299.0,0.125,0.0
+KEEP (Different Movie),Fever Pitch (1997),1997.0,1610.0,Fever Pitch (2005),2005.0,11431.0,1.0,0.0
+KEEP (Different Movie),Fire and Ice (1983),1983.0,15035.0,Fire and Ice (2008),2008.0,16999.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Firm, The (1993)",1993.0,37233.0,"Firm, The (2009)",2009.0,31218.0,0.5,0.0
+KEEP (Different Movie),"Fly, The (1958)",1958.0,11815.0,"Fly, The (1986)",1986.0,9426.0,0.4,0.0
+KEEP (Different Movie),Focus (2001),2001.0,18192.0,Focus (2015),2015.0,256591.0,0.25,0.0
+KEEP (Different Movie),"Fog, The (1980)",1980.0,790.0,"Fog, The (2005)",2005.0,791.0,0.25,0.0
+KEEP (Different Movie),Footloose (1984),1984.0,1788.0,Footloose (2011),2011.0,68817.0,0.3333333333333333,0.0
+KEEP (Different Movie),Frankenstein (1931),1931.0,3035.0,Frankenstein (2015),2015.0,337029.0,0.25,0.0
+KEEP (Different Movie),Frankie and Johnny (1966),1966.0,18691.0,Frankie and Johnny (1991),1991.0,3784.0,0.5,0.0
+KEEP (Different Movie),Freaky Friday (1977),1977.0,16084.0,Freaky Friday (2003),2003.0,10330.0,1.0,0.0
+KEEP (Different Movie),"Freshman, The (1990)",1990.0,10168.0,"Freshman, The (1925)",1925.0,42359.0,0.5,0.0
+KEEP (Different Movie),Friday the 13th (1980),1980.0,4488.0,Friday the 13th (2009),2009.0,13207.0,0.3333333333333333,0.0
+KEEP (Different Movie),Fright Night (1985),1985.0,11797.0,Fright Night (2011),2011.0,58151.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Front Page, The (1974)",1974.0,987.0,"Front Page, The (1931)",1931.0,42814.0,0.3333333333333333,0.0
+KEEP (Different Movie),Frozen (2010),2010.0,44363.0,Frozen (2013),2013.0,109445.0,0.0,0.0
+KEEP (Different Movie),"Fugitive, The (1993)",1993.0,5503.0,"Fugitive, The (1947)",1947.0,37368.0,0.0,0.0
+KEEP (Different Movie),Fury (1936),1936.0,14615.0,Fury (2014),2014.0,228150.0,0.25,0.0
+KEEP (Different Movie),"General, The (1998)",1998.0,16885.0,"General, The (1926)",1926.0,961.0,0.0,0.0
+KEEP (Different Movie),Get Carter (2000),2000.0,10461.0,Get Carter (1971),1971.0,1485.0,0.75,0.0
+KEEP (Different Movie),"Getaway, The (1994)",1994.0,2087.0,"Getaway, The (1972)",1972.0,5916.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Gift, The (2000)",2000.0,2046.0,The Gift (2015),2015.0,328425.0,0.0,0.0
+KEEP (Different Movie),Gigi (1958),1958.0,17281.0,Gigi (1949),1949.0,123723.0,0.0,0.0
+KEEP (Different Movie),"Girl Next Door, The (2004)",2004.0,10591.0,"Girl Next Door, The (2007)",2007.0,15356.0,0.0,0.0
+KEEP (Different Movie),Gladiator (2000),2000.0,98.0,Gladiator (1992),1992.0,16219.0,0.6666666666666666,0.0
+KEEP (Different Movie),Godzilla (1998),1998.0,929.0,Godzilla (2014),2014.0,124905.0,0.4,0.0
+KEEP (Different Movie),Gone in 60 Seconds (2000),2000.0,9679.0,Gone in 60 Seconds (1974),1974.0,16246.0,0.6666666666666666,0.0
+KEEP (Different Movie),Great Expectations (1998),1998.0,9410.0,Great Expectations (1946),1946.0,14320.0,0.5,0.0
+KEEP (Different Movie),"Great Gatsby, The (1974)",1974.0,11034.0,"Great Gatsby, The (2013)",2013.0,64682.0,1.0,0.0
+KEEP (Different Movie),"Guardian, The (1990)",1990.0,32043.0,"Guardian, The (2006)",2006.0,4643.0,0.0,0.0
+KEEP (Different Movie),Gulliver's Travels (1939),1939.0,42518.0,Gulliver's Travels (2010),2010.0,38745.0,0.2,0.0
+KEEP (Different Movie),Gulliver's Travels (1939),1939.0,42518.0,Gulliver's Travels (1996),1996.0,26787.0,0.5,0.0
+KEEP (Different Movie),Gulliver's Travels (2010),2010.0,38745.0,Gulliver's Travels (1996),1996.0,26787.0,0.5,0.0
+KEEP (Different Movie),Hairspray (1988),1988.0,11054.0,Hairspray (2007),2007.0,2976.0,0.6666666666666666,0.0
+KEEP (Different Movie),Halloween (1978),1978.0,948.0,Halloween (2007),2007.0,2082.0,1.0,0.0
+KEEP (Different Movie),Halloween II (1981),1981.0,11281.0,Halloween II (2009),2009.0,24150.0,0.5,0.0
+KEEP (Different Movie),Hamlet (1948),1948.0,23383.0,Hamlet (1964),1964.0,141489.0,1.0,0.0
+KEEP (Different Movie),Hamlet (1948),1948.0,23383.0,Hamlet (2000),2000.0,10688.0,0.25,0.0
+KEEP (Different Movie),Hamlet (1948),1948.0,23383.0,Hamlet (1990),1990.0,10264.0,1.0,0.0
+KEEP (Different Movie),Hamlet (1964),1964.0,141489.0,Hamlet (2000),2000.0,10688.0,0.25,0.0
+KEEP (Different Movie),Hamlet (1964),1964.0,141489.0,Hamlet (1990),1990.0,10264.0,1.0,0.0
+KEEP (Different Movie),Hamlet (1996),1996.0,10549.0,Hamlet (1948),1948.0,23383.0,0.3333333333333333,0.0
+KEEP (Different Movie),Hamlet (1996),1996.0,10549.0,Hamlet (1964),1964.0,141489.0,0.3333333333333333,0.0
+KEEP (Different Movie),Hamlet (1996),1996.0,10549.0,Hamlet (2000),2000.0,10688.0,0.75,0.0
+KEEP (Different Movie),Hamlet (1996),1996.0,10549.0,Hamlet (1990),1990.0,10264.0,0.3333333333333333,1.0
+KEEP (Different Movie),Hamlet (2000),2000.0,10688.0,Hamlet (1990),1990.0,10264.0,0.25,0.0
+KEEP (Different Movie),"Haunting, The (1963)",1963.0,11772.0,"Haunting, The (1999)",1999.0,11618.0,1.0,0.0
+KEEP (Different Movie),Hercules (1997),1997.0,11970.0,Hercules (2014),2014.0,184315.0,0.16666666666666666,0.0
+KEEP (Different Movie),"Hills Have Eyes, The (1977)",1977.0,12262.0,"Hills Have Eyes, The (2006)",2006.0,9792.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Hitcher, The (1986)",1986.0,9542.0,"Hitcher, The (2007)",2007.0,8398.0,0.6666666666666666,0.0
+KEEP (Different Movie),Home (2009),2009.0,62320.0,Home (2015),2015.0,228161.0,0.0,0.0
+KEEP (Different Movie),Hope Springs (2003),2003.0,21544.0,Hope Springs (2012),2012.0,82696.0,0.3333333333333333,0.0
+KEEP (Different Movie),House of Wax (1953),1953.0,18573.0,House of Wax (2005),2005.0,10066.0,0.5,0.0
+KEEP (Different Movie),"Hunchback of Notre Dame, The (1939)",1939.0,31685.0,"Hunchback of Notre Dame, The (1923)",1923.0,18987.0,0.5,0.0
+KEEP (Different Movie),"Hunchback of Notre Dame, The (1996)",1996.0,10545.0,"Hunchback of Notre Dame, The (1939)",1939.0,31685.0,0.2,0.0
+KEEP (Different Movie),"Hunchback of Notre Dame, The (1996)",1996.0,10545.0,"Hunchback of Notre Dame, The (1923)",1923.0,18987.0,0.16666666666666666,0.0
+KEEP (Different Movie),"Hunted, The (1995)",1995.0,32631.0,"Hunted, The (2003)",2003.0,10632.0,0.3333333333333333,0.0
+KEEP (Different Movie),Hush (1998),1998.0,17941.0,Hush (2016),2016.0,376570.0,1.0,0.0
+KEEP (Different Movie),"Importance of Being Earnest, The (2002)",2002.0,9026.0,The Importance of Being Earnest (1952),1952.0,20324.0,0.6666666666666666,0.0
+KEEP (Different Movie),Inferno (1980),1980.0,16395.0,Inferno (2016),2016.0,207932.0,0.0,0.0
+KEEP (Different Movie),Insomnia (1997),1997.0,26610.0,Insomnia (2002),2002.0,320.0,0.6,0.0
+KEEP (Different Movie),Into the Woods (1991),1991.0,23378.0,Into the Woods (2014),2014.0,224141.0,0.6,0.0
+KEEP (Different Movie),Invasion of the Body Snatchers (1956),1956.0,11549.0,Invasion of the Body Snatchers (1978),1978.0,11850.0,0.75,0.0
+KEEP (Different Movie),Invincible (2001),2001.0,68569.0,Invincible (2006),2006.0,11652.0,1.0,0.0
+KEEP (Different Movie),Iron Man (2008),2008.0,1726.0,Iron Man (1931),1931.0,194310.0,0.0,0.0
+KEEP (Different Movie),"Island, The (2005)",2005.0,1635.0,The Island (2006),2006.0,22358.0,0.0,0.0
+KEEP (Different Movie),It (1990),1990.0,2670.0,It (2017),2017.0,346364.0,0.2,0.0
+KEEP (Different Movie),"Italian Job, The (2003)",2003.0,9654.0,"Italian Job, The (1969)",1969.0,10536.0,0.6666666666666666,0.0
+KEEP (Different Movie),Jane Eyre (1944),1944.0,22744.0,Jane Eyre (1970),1970.0,131313.0,0.5,0.0
+KEEP (Different Movie),Jane Eyre (1944),1944.0,22744.0,Jane Eyre (2011),2011.0,38684.0,1.0,0.0
+KEEP (Different Movie),Jane Eyre (1970),1970.0,131313.0,Jane Eyre (2011),2011.0,38684.0,0.5,0.0
+KEEP (Different Movie),Jane Eyre (1996),1996.0,47333.0,Jane Eyre (1944),1944.0,22744.0,1.0,0.0
+KEEP (Different Movie),Jane Eyre (1996),1996.0,47333.0,Jane Eyre (1970),1970.0,131313.0,0.5,0.0
+KEEP (Different Movie),Jane Eyre (1996),1996.0,47333.0,Jane Eyre (2011),2011.0,38684.0,1.0,0.0
+KEEP (Different Movie),Journey to the Center of the Earth (1959),1959.0,11571.0,Journey to the Center of the Earth (2008),2008.0,88751.0,0.5,0.0
+KEEP (Different Movie),Julia (1977),1977.0,42222.0,Julia (2014),2014.0,278632.0,0.0,0.0
+KEEP (Different Movie),"Jungle Book, The (1967)",1967.0,9325.0,The Jungle Book (2016),2016.0,278927.0,0.0,0.0
+KEEP (Different Movie),"Jungle Book, The (1994)",1994.0,10714.0,"Jungle Book, The (1967)",1967.0,9325.0,0.16666666666666666,0.0
+KEEP (Different Movie),"Jungle Book, The (1994)",1994.0,10714.0,The Jungle Book (2016),2016.0,278927.0,0.2,0.0
+KEEP (Different Movie),"Karate Kid, The (1984)",1984.0,1885.0,"Karate Kid, The (2010)",2010.0,38575.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Kid, The (1921)",1921.0,10098.0,"Kid, The (2000)",2000.0,4244.0,0.3333333333333333,0.0
+KEEP (Different Movie),King Kong (1933),1933.0,244.0,King Kong (1976),1976.0,10730.0,0.2857142857142857,0.0
+KEEP (Different Movie),King Kong (1933),1933.0,244.0,King Kong (2005),2005.0,254.0,0.5,0.0
+KEEP (Different Movie),King Kong (1976),1976.0,10730.0,King Kong (2005),2005.0,254.0,0.42857142857142855,0.0
+KEEP (Different Movie),King Solomon's Mines (1937),1937.0,43860.0,King Solomon's Mines (1985),1985.0,9838.0,0.16666666666666666,0.0
+KEEP (Different Movie),King Solomon's Mines (1937),1937.0,43860.0,King Solomon's Mines (1950),1950.0,43388.0,0.6,0.0
+KEEP (Different Movie),King Solomon's Mines (1985),1985.0,9838.0,King Solomon's Mines (1950),1950.0,43388.0,0.25,0.0
+KEEP (Different Movie),"King and I, The (1999)",1999.0,47288.0,"King and I, The (1956)",1956.0,16520.0,0.0,0.0
+KEEP (Different Movie),"Ladykillers, The (1955)",1955.0,5506.0,"Ladykillers, The (2004)",2004.0,5516.0,1.0,0.0
+KEEP (Different Movie),Last Holiday (2006),2006.0,17379.0,Last Holiday (1950),1950.0,16939.0,0.3333333333333333,0.0
+KEEP (Different Movie),Legend (1985),1985.0,11976.0,Legend (2015),2015.0,276907.0,0.0,0.0
+KEEP (Different Movie),"Legend of Sleepy Hollow, The (1980)",1980.0,170261.0,"Legend of Sleepy Hollow, The (1949)",1949.0,43650.0,0.4,0.0
+KEEP (Different Movie),Little Women (1933),1933.0,39938.0,Little Women (1949),1949.0,43436.0,0.5,0.0
+KEEP (Different Movie),Little Women (1994),1994.0,9587.0,Little Women (1933),1933.0,39938.0,0.5,0.0
+KEEP (Different Movie),Little Women (1994),1994.0,9587.0,Little Women (1949),1949.0,43436.0,1.0,0.0
+KEEP (Different Movie),Lolita (1997),1997.0,9769.0,Lolita (1962),1962.0,802.0,1.0,0.0
+KEEP (Different Movie),"Longest Yard, The (1974)",1974.0,4985.0,"Longest Yard, The (2005)",2005.0,9291.0,0.5,0.0
+KEEP (Different Movie),Lord of the Flies (1963),1963.0,9960.0,Lord of the Flies (1990),1990.0,10847.0,1.0,0.0
+KEEP (Different Movie),Love Affair (1994),1994.0,43742.0,Love Affair (1939),1939.0,43739.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Love Bug, The (1969)",1969.0,14136.0,The Love Bug (1997),1997.0,32643.0,0.5,0.0
+KEEP (Different Movie),"Magnificent Seven, The (1960)",1960.0,966.0,The Magnificent Seven (2016),2016.0,333484.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Man Who Knew Too Much, The (1956)",1956.0,574.0,"Man Who Knew Too Much, The (1934)",1934.0,8208.0,0.5,0.0
+KEEP (Different Movie),Man of the House (1995),1995.0,40490.0,Man of the House (2005),2005.0,13498.0,0.5,0.0
+KEEP (Different Movie),Man of the Year (1995),1995.0,5757.0,Man of the Year (2006),2006.0,9895.0,0.0,0.0
+KEEP (Different Movie),"Manchurian Candidate, The (1962)",1962.0,982.0,"Manchurian Candidate, The (2004)",2004.0,14462.0,0.3333333333333333,0.0
+KEEP (Different Movie),Masterminds (1997),1997.0,25224.0,Masterminds (2016),2016.0,213681.0,0.5,0.0
+KEEP (Different Movie),Metropolis (1927),1927.0,19.0,Metropolis (2001),2001.0,9606.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Midsummer Night's Dream, A (1935)",1935.0,19075.0,A Midsummer Night's Dream (2016),2016.0,398854.0,0.0,0.0
+KEEP (Different Movie),Mighty Joe Young (1998),1998.0,9822.0,Mighty Joe Young (1949),1949.0,39314.0,0.3333333333333333,0.0
+KEEP (Different Movie),Mildred Pierce (1945),1945.0,3309.0,Mildred Pierce (2011),2011.0,202241.0,0.5,0.0
+KEEP (Different Movie),Miracle on 34th Street (1994),1994.0,10510.0,Miracle on 34th Street (1947),1947.0,11881.0,0.5,0.0
+KEEP (Different Movie),"Misérables, Les (1995)",1995.0,48750.0,"Misérables, Les (1998)",1998.0,4415.0,0.5,0.0
+KEEP (Different Movie),"Misérables, Les (1995)",1995.0,48750.0,"Misérables, Les (2012)",2012.0,82695.0,0.2,0.0
+KEEP (Different Movie),"Misérables, Les (1995)",1995.0,48750.0,"Misérables, Les (2000)",2000.0,193380.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Misérables, Les (1998)",1998.0,4415.0,"Misérables, Les (2012)",2012.0,82695.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Misérables, Les (1998)",1998.0,4415.0,"Misérables, Les (2000)",2000.0,193380.0,0.5,0.0
+KEEP (Different Movie),"Misérables, Les (2012)",2012.0,82695.0,"Misérables, Les (2000)",2000.0,193380.0,0.5,0.0
+KEEP (Different Movie),Mother (1996),1996.0,27265.0,Mother! (2017),2017.0,381283.0,0.0,0.0
+KEEP (Different Movie),Mr. & Mrs. Smith (1941),1941.0,24197.0,Mr. & Mrs. Smith (2005),2005.0,787.0,0.5,0.0
+KEEP (Different Movie),Much Ado About Nothing (1993),1993.0,11971.0,Much Ado About Nothing (2012),2012.0,91739.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Mummy, The (1932)",1932.0,15849.0,"Mummy, The (1959)",1959.0,18990.0,0.5,0.0
+KEEP (Different Movie),"Mummy, The (1932)",1932.0,15849.0,The Mummy (2017),2017.0,282035.0,0.16666666666666666,0.0
+KEEP (Different Movie),"Mummy, The (1959)",1959.0,18990.0,The Mummy (2017),2017.0,282035.0,0.2,0.0
+KEEP (Different Movie),"Mummy, The (1999)",1999.0,564.0,"Mummy, The (1932)",1932.0,15849.0,0.14285714285714285,0.0
+KEEP (Different Movie),"Mummy, The (1999)",1999.0,564.0,"Mummy, The (1959)",1959.0,18990.0,0.16666666666666666,0.0
+KEEP (Different Movie),"Mummy, The (1999)",1999.0,564.0,The Mummy (2017),2017.0,282035.0,0.8333333333333334,0.0
+KEEP (Different Movie),Murder on the Orient Express (1974),1974.0,4176.0,Murder on the Orient Express (2017),2017.0,392044.0,0.5,0.0
+KEEP (Different Movie),Mutiny on the Bounty (1935),1935.0,12311.0,Mutiny on the Bounty (1962),1962.0,11085.0,0.6666666666666666,0.0
+KEEP (Different Movie),My Man Godfrey (1936),1936.0,13562.0,My Man Godfrey (1957),1957.0,52470.0,0.5,0.0
+KEEP (Different Movie),Neighbors (1981),1981.0,19507.0,Neighbors (2014),2014.0,195589.0,1.0,0.0
+KEEP (Different Movie),Night of the Living Dead (1968),1968.0,10331.0,Night of the Living Dead (1990),1990.0,19185.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Nightmare on Elm Street, A (1984)",1984.0,377.0,"Nightmare on Elm Street, A (2010)",2010.0,23437.0,0.6666666666666666,0.0
+KEEP (Different Movie),No Man's Land (1987),1987.0,34379.0,No Man's Land (2001),2001.0,8342.0,0.3333333333333333,0.0
+KEEP (Different Movie),Nothing to Lose (1994),1994.0,410921.0,Nothing to Lose (1997),1997.0,11676.0,0.4,0.0
+KEEP (Different Movie),Notorious (1946),1946.0,303.0,Notorious (2009),2009.0,14410.0,0.0,0.0
+KEEP (Different Movie),"Nutty Professor, The (1996)",1996.0,9327.0,"Nutty Professor, The (1963)",1963.0,18331.0,0.5,0.0
+KEEP (Different Movie),Obsession (1976),1976.0,4780.0,Obsession (1965),1965.0,435041.0,0.0,0.0
+KEEP (Different Movie),Of Mice and Men (1992),1992.0,9609.0,Of Mice and Men (1939),1939.0,51802.0,1.0,0.0
+KEEP (Different Movie),Oliver Twist (1948),1948.0,10949.0,Oliver Twist (2005),2005.0,257.0,0.3333333333333333,1.0
+KEEP (Different Movie),"Omen, The (1976)",1976.0,794.0,"Omen, The (2006)",2006.0,806.0,0.6666666666666666,0.0
+KEEP (Different Movie),Oscar (1991),1991.0,11890.0,Oscar (1967),1967.0,2798.0,0.25,0.0
+KEEP (Different Movie),Out Cold (2001),2001.0,14369.0,Out Cold (1989),1989.0,120328.0,0.5,0.0
+KEEP (Different Movie),"Parent Trap, The (1961)",1961.0,19186.0,"Parent Trap, The (1998)",1998.0,9820.0,1.0,1.0
+KEEP (Different Movie),"Patriot, The (2000)",2000.0,2024.0,"Patriot, The (1998)",1998.0,6058.0,0.25,0.0
+KEEP (Different Movie),Persuasion (1995),1995.0,17015.0,Persuasion (2007),2007.0,13949.0,1.0,0.0
+KEEP (Different Movie),Pete's Dragon (1977),1977.0,11114.0,Pete's Dragon (2016),2016.0,294272.0,0.4,0.0
+KEEP (Different Movie),Peter Pan (1953),1953.0,10693.0,Peter Pan (2003),2003.0,10601.0,0.3333333333333333,0.0
+KEEP (Different Movie),Peter Pan (1953),1953.0,10693.0,Peter Pan (1960),1960.0,51120.0,0.75,0.0
+KEEP (Different Movie),Peter Pan (2003),2003.0,10601.0,Peter Pan (1960),1960.0,51120.0,0.4,0.0
+KEEP (Different Movie),"Pink Panther, The (1963)",1963.0,936.0,"Pink Panther, The (2006)",2006.0,12096.0,0.6666666666666666,0.0
+KEEP (Different Movie),Pinocchio (1940),1940.0,10895.0,Pinocchio (2002),2002.0,10599.0,0.4,0.0
+KEEP (Different Movie),Planet of the Apes (1968),1968.0,871.0,Planet of the Apes (2001),2001.0,869.0,0.75,0.0
+KEEP (Different Movie),"Postman Always Rings Twice, The (1981)",1981.0,11027.0,"Postman Always Rings Twice, The (1946)",1946.0,25736.0,0.5,0.0
+KEEP (Different Movie),Pride (2007),2007.0,16385.0,Pride (2014),2014.0,234200.0,0.5,0.0
+KEEP (Different Movie),Pride and Prejudice (1940),1940.0,43818.0,Pride and Prejudice (1995),1995.0,164721.0,0.6666666666666666,0.0
+KEEP (Different Movie),Priest (1994),1994.0,40156.0,Priest (2011),2011.0,38321.0,0.0,0.0
+KEEP (Different Movie),"Producers, The (1968)",1968.0,30197.0,"Producers, The (2005)",2005.0,9899.0,0.5,0.0
+KEEP (Different Movie),Project X (1987),1987.0,18410.0,Project X (2012),2012.0,57214.0,0.5,0.0
+KEEP (Different Movie),Project X (1987),1987.0,18410.0,Project X (1968),1968.0,29398.0,0.0,0.0
+KEEP (Different Movie),Project X (2012),2012.0,57214.0,Project X (1968),1968.0,29398.0,0.0,0.0
+KEEP (Different Movie),Prom Night (1980),1980.0,36599.0,Prom Night (2008),2008.0,8617.0,0.3333333333333333,0.0
+KEEP (Different Movie),Proof (1991),1991.0,14904.0,Proof (2005),2005.0,9777.0,0.3333333333333333,0.0
+KEEP (Different Movie),Psycho (1960),1960.0,539.0,Psycho (1998),1998.0,11252.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Punisher, The (1989)",1989.0,8867.0,"Punisher, The (2004)",2004.0,7220.0,0.3333333333333333,0.0
+KEEP (Different Movie),Red Dawn (1984),1984.0,1880.0,Red Dawn (2012),2012.0,60747.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Revenant, The (2009)",2009.0,79896.0,The Revenant (2015),2015.0,281957.0,0.0,0.0
+KEEP (Different Movie),"Ring, The (1927)",1927.0,36056.0,"Ring, The (2002)",2002.0,565.0,0.0,0.0
+KEEP (Different Movie),Robin Hood (1973),1973.0,11886.0,Robin Hood (2010),2010.0,20662.0,0.1111111111111111,0.0
+KEEP (Different Movie),RoboCop (1987),1987.0,5548.0,RoboCop (2014),2014.0,97020.0,0.5,0.0
+KEEP (Different Movie),Rollerball (2002),2002.0,11535.0,Rollerball (1975),1975.0,11484.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Rookie, The (2002)",2002.0,14635.0,"Rookie, The (1990)",1990.0,6723.0,0.0,0.0
+KEEP (Different Movie),Running Scared (1980),1980.0,259557.0,Running Scared (2006),2006.0,7304.0,0.25,0.0
+KEEP (Different Movie),Running Scared (1986),1986.0,15698.0,Running Scared (1980),1980.0,259557.0,0.3333333333333333,0.0
+KEEP (Different Movie),Running Scared (1986),1986.0,15698.0,Running Scared (2006),2006.0,7304.0,0.25,0.0
+KEEP (Different Movie),Rush (1991),1991.0,20289.0,Rush (2013),2013.0,96721.0,0.3333333333333333,0.0
+KEEP (Different Movie),Sabrina (1995),1995.0,11860.0,Sabrina (1954),1954.0,6620.0,1.0,0.0
+KEEP (Different Movie),Safe (1995),1995.0,32646.0,Safe (2012),2012.0,72387.0,0.3333333333333333,0.0
+KEEP (Different Movie),Saw (2004),2004.0,176.0,Saw (2003),2003.0,246355.0,0.25,0.0
+KEEP (Different Movie),Scarface (1983),1983.0,111.0,Scarface (1932),1932.0,877.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Secret Life of Walter Mitty, The (1947)",1947.0,40092.0,"Secret Life of Walter Mitty, The (2013)",2013.0,116745.0,0.2,0.0
+KEEP (Different Movie),Shaft (1971),1971.0,482.0,Shaft (2000),2000.0,479.0,0.75,0.0
+KEEP (Different Movie),"Shaggy Dog, The (1959)",1959.0,15944.0,"Shaggy Dog, The (2006)",2006.0,10067.0,0.5,0.0
+KEEP (Different Movie),Shall We Dance (1937),1937.0,31530.0,Shall We Dance? (2004),2004.0,4380.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Shining, The (1980)",1980.0,694.0,The Shining (1997),1997.0,106035.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Signal, The (2007)",2007.0,13059.0,"Signal, The (2014)",2014.0,242095.0,0.6666666666666666,0.0
+KEEP (Different Movie),Sisters (1973),1973.0,22307.0,Sisters (2015),2015.0,266294.0,0.0,0.0
+KEEP (Different Movie),Sky High (2005),2005.0,11459.0,Sky High (2003),2003.0,5846.0,0.16666666666666666,0.0
+KEEP (Different Movie),Sleuth (1972),1972.0,993.0,Sleuth (2007),2007.0,4520.0,0.5,0.0
+KEEP (Different Movie),Spellbound (1945),1945.0,4174.0,Spellbound (2002),2002.0,16636.0,0.0,0.0
+KEEP (Different Movie),Spellbound (1945),1945.0,4174.0,Spellbound (2011),2011.0,92499.0,0.25,0.0
+KEEP (Different Movie),Spellbound (2002),2002.0,16636.0,Spellbound (2011),2011.0,92499.0,0.0,0.0
+KEEP (Different Movie),Spiral (2007),2007.0,18467.0,Spiral (2018),2018.0,525662.0,0.0,0.0
+KEEP (Different Movie),Stalingrad (1993),1993.0,11101.0,Stalingrad (2013),2013.0,203793.0,0.5,0.0
+KEEP (Different Movie),"Star Is Born, A (1937)",1937.0,22692.0,"Star Is Born, A (1954)",1954.0,3111.0,0.5,0.0
+KEEP (Different Movie),"Stepford Wives, The (1975)",1975.0,12223.0,"Stepford Wives, The (2004)",2004.0,9890.0,0.2,0.0
+KEEP (Different Movie),Sunshine (1999),1999.0,17771.0,Sunshine (2007),2007.0,1272.0,0.25,0.0
+KEEP (Different Movie),Taxi (1998),1998.0,2330.0,Taxi (2004),2004.0,11045.0,1.0,0.0
+KEEP (Different Movie),Teenage Mutant Ninja Turtles (1990),1990.0,1498.0,Teenage Mutant Ninja Turtles (2014),2014.0,98566.0,0.3333333333333333,0.0
+KEEP (Different Movie),"Texas Chainsaw Massacre, The (1974)",1974.0,30497.0,"Texas Chainsaw Massacre, The (2003)",2003.0,9373.0,1.0,0.0
+KEEP (Different Movie),That Darn Cat! (1965),1965.0,20723.0,That Darn Cat (1997),1997.0,20735.0,1.0,0.0
+KEEP (Different Movie),The Diary of Anne Frank (1959),1959.0,2576.0,The Diary of Anne Frank (2009),2009.0,133365.0,1.0,0.0
+KEEP (Different Movie),The Great Train Robbery (1978),1978.0,11583.0,The Great Train Robbery (1903),1903.0,5698.0,0.16666666666666666,0.0
+KEEP (Different Movie),The Night Before (2015),2015.0,296100.0,The Night Before (1988),1988.0,38966.0,1.0,0.0
+KEEP (Different Movie),"Thief of Bagdad, The (1940)",1940.0,12232.0,"Thief of Bagdad, The (1924)",1924.0,28963.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Thing, The (1982)",1982.0,1091.0,"Thing, The (2011)",2011.0,60935.0,0.6,0.0
+KEEP (Different Movie),"Thomas Crown Affair, The (1999)",1999.0,913.0,"Thomas Crown Affair, The (1968)",1968.0,912.0,0.0,0.0
+KEEP (Different Movie),"Three Musketeers, The (1948)",1948.0,41609.0,"Three Musketeers, The (1973)",1973.0,2926.0,0.4,0.0
+KEEP (Different Movie),"Three Musketeers, The (1948)",1948.0,41609.0,"Three Musketeers, The (2011)",2011.0,52451.0,0.5,0.0
+KEEP (Different Movie),"Three Musketeers, The (1973)",1973.0,2926.0,"Three Musketeers, The (2011)",2011.0,52451.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Three Musketeers, The (1993)",1993.0,10057.0,"Three Musketeers, The (1948)",1948.0,41609.0,0.6,0.0
+KEEP (Different Movie),"Three Musketeers, The (1993)",1993.0,10057.0,"Three Musketeers, The (1973)",1973.0,2926.0,0.75,0.0
+KEEP (Different Movie),"Three Musketeers, The (1993)",1993.0,10057.0,"Three Musketeers, The (2011)",2011.0,52451.0,0.5,0.0
+KEEP (Different Movie),"Time Machine, The (1960)",1960.0,2134.0,"Time Machine, The (2002)",2002.0,2135.0,1.0,0.0
+KEEP (Different Movie),"Tinker, Tailor, Soldier, Spy (1979)",1979.0,140207.0,Tinker Tailor Soldier Spy (2011),2011.0,49517.0,0.6666666666666666,0.0
+KEEP (Different Movie),Titanic (1997),1997.0,597.0,Titanic (1953),1953.0,16535.0,0.3333333333333333,0.0
+KEEP (Different Movie),Total Recall (1990),1990.0,861.0,Total Recall (2012),2012.0,64635.0,0.75,0.0
+KEEP (Different Movie),Treasure Island (1950),1950.0,6646.0,Treasure Island (2012),2012.0,83191.0,0.5,0.0
+KEEP (Different Movie),"Trip, The (2002)",2002.0,15850.0,"Trip, The (2010)",2010.0,63578.0,0.6666666666666666,0.0
+KEEP (Different Movie),True Crime (1996),1996.0,37144.0,True Crime (1999),1999.0,10354.0,0.3333333333333333,0.0
+KEEP (Different Movie),True Grit (1969),1969.0,17529.0,True Grit (2010),2010.0,44264.0,0.3333333333333333,0.0
+KEEP (Different Movie),Twilight (1998),1998.0,26269.0,Twilight (2008),2008.0,8966.0,0.4,0.0
+KEEP (Different Movie),Twister (1996),1996.0,664.0,Twister (1990),1990.0,77780.0,0.0,0.0
+KEEP (Different Movie),Underworld (1996),1996.0,85242.0,Underworld (2003),2003.0,277.0,0.0,0.0
+KEEP (Different Movie),Unforgiven (1992),1992.0,33.0,Unforgiven (2013),2013.0,141819.0,0.25,0.0
+KEEP (Different Movie),Unknown (2006),2006.0,9828.0,Unknown (2011),2011.0,48138.0,1.0,0.0
+KEEP (Different Movie),Village of the Damned (1995),1995.0,12122.0,Village of the Damned (1960),1960.0,11773.0,0.6666666666666666,0.0
+KEEP (Different Movie),"Visit, The (2000)",2000.0,70282.0,"Visit, The (2015)",2015.0,298312.0,0.0,0.0
+KEEP (Different Movie),War and Peace (1956),1956.0,11706.0,War and Peace (2016),2016.0,378779.0,0.6666666666666666,0.0
+KEEP (Different Movie),War of the Worlds (2005),2005.0,74.0,War of the Worlds (2005),2005.0,34812.0,0.5,0.0
+KEEP (Different Movie),We're No Angels (1989),1989.0,5971.0,We're No Angels (1955),1955.0,5996.0,0.6666666666666666,0.0
+KEEP (Different Movie),When a Stranger Calls (1979),1979.0,45964.0,When a Stranger Calls (2006),2006.0,10053.0,1.0,0.0
+KEEP (Different Movie),Whiplash (2014),2014.0,244786.0,Whiplash (2013),2013.0,367412.0,0.0,0.0
+KEEP (Different Movie),"Wicker Man, The (1973)",1973.0,16307.0,"Wicker Man, The (2006)",2006.0,9708.0,0.75,0.0
+KEEP (Different Movie),Wonder Woman (2009),2009.0,15359.0,Wonder Woman (2017),2017.0,297762.0,0.75,0.0
+KEEP (Different Movie),Wonderland (1999),1999.0,32640.0,Wonderland (2003),2003.0,4997.0,0.25,0.0
+KEEP (Different Movie),Wuthering Heights (1992),1992.0,25095.0,Wuthering Heights (1939),1939.0,3084.0,1.0,0.0
+KEEP (Different Movie),"Yours, Mine and Ours (1968)",1968.0,27983.0,"Yours, Mine and Ours (2005)",2005.0,13499.0,0.3333333333333333,0.0
+KEEP (Different Movie),Zoom (2006),2006.0,14113.0,Zoom (2015),2015.0,351065.0,0.4,0.0
+KEEP (Different Movie),Zulu (1964),1964.0,14433.0,Zulu (2013),2013.0,185567.0,0.2,0.0
+KEEP (Different Movie),[REC] (2007),2007.0,8329.0,[REC]² (2009),2009.0,10664.0,0.6666666666666666,0.0
+KEEP (Remake/Series),Eros (2004),2004.0,,Eros (2004),2004.0,39850.0,0.5,0.0
+KEEP (Remake/Series),Loser (1991),1991.0,,Loser (2000),2000.0,10642.0,0.5,0.0
+KEEP (Remake/Series),Saturn 3 (1980),1980.0,,Saturn 3 (1980),1980.0,19761.0,0.6666666666666666,0.0
